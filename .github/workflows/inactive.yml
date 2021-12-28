@@ -1,7 +1,6 @@
 name: Inactive Test
 
-on: |
-
+on: 
   workflow_dispatch:
     inputs:
       action_branch:
